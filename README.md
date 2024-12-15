@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+깃을 시작했어요!
+
+앞으로도 열심히 할 예정입니다 -!
 <!--
 **KangHwan-Cha/KangHwan-Cha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
