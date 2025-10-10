@@ -10,15 +10,18 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-<div align="center">
+<div align="left">
 
-# 안녕하세요, 차강환입니다 👋
+# Welcome to my GitHub Profile!
+### Hi, I'm KangHwan👋
 
 [![Profile Views](https://komarev.com/ghpvc/?username=k-kanghwan&style=flat&color=0e75b6)](https://github.com/k-kanghwan)
 
 </div>
 
-데이터로 문제를 해결하는 걸 좋아하는 개발자입니다. 비전공자이지만 새로운 기술을 빠르게 흡수하고 시도합니다. 주 언어는 Python이며 꽤 깊이 있게 사용합니다. 또한, 빅데이터 분석기사 자격증을 보유하고 있습니다.
+- 데이터로 문제를 해결하는 걸 좋아하는 개발자입니다. 
+- 비전공자이지만 새로운 기술을 빠르게 흡수하고 시도합니다. 
+- 주 언어는 Python이며, 아주 깊은 관심이 있습니다.
 
 ## 기술 스택
 
