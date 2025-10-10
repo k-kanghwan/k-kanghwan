@@ -34,7 +34,6 @@ Here are some ideas to get you started:
   <br/>
 
   <!-- Backend & APIs -->
-  <img height="22" style="margin:2px 4px;" src="https://img.shields.io/badge/Backend-555555?style=flat" alt="Backend" />
   <img height="22" style="margin:2px 4px;" src="https://img.shields.io/badge/REST%20API-85EA2D?style=flat&logo=swagger&logoColor=000" alt="REST API" />
   <img height="22" style="margin:2px 4px;" src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img height="22" style="margin:2px 4px;" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" />
@@ -55,7 +54,6 @@ Here are some ideas to get you started:
   <br/>
 
   <!-- Web Crawling -->
-  <img height="22" style="margin:2px 4px;" src="https://img.shields.io/badge/%EC%9B%B9%20%ED%81%AC%EB%A1%A4%EB%A7%81-4E9A06?style=flat" alt="웹 크롤링" />
   <img height="22" style="margin:2px 4px;" src="https://img.shields.io/badge/Scrapy-60A839?style=flat&logo=scrapy&logoColor=white" alt="Scrapy" />
   <img height="22" style="margin:2px 4px;" src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" alt="Selenium" />
   <br/>
@@ -92,14 +90,14 @@ Here are some ideas to get you started:
 
 </div>
 
-### About Me
+### 소개
 
-> - 데이터로 문제를 해결하는 걸 좋아하는 개발자입니다. 
-> - 비전공자이지만 새로운 기술을 빠르게 흡수하고 시도합니다. 
-> - 주 언어는 Python이며, 아주 깊은 관심이 있습니다.
+- 데이터로 문제를 해결하는 걸 좋아하는 개발자입니다. 
+- 비전공자이지만 새로운 기술을 빠르게 흡수하고 시도합니다. 
+- 주 언어는 Python이며, 아주 깊은 관심이 있습니다.
 
 
-### 가치관/원칙 (추천)
+### 가치관/원칙
 
 - 읽기 쉬운 코드와 명확한 주석을 선호합니다.
 - 재현 가능한 실험/분석을 위해 노트북과 스크립트를 정리합니다.
