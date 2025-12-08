@@ -83,8 +83,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img height="150" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=k-kanghwan&show_icons=true&hide_border=true&theme=transparent" />
-<img height="150" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-kanghwan&layout=compact&langs_count=8&hide_border=true&card_width=320&theme=transparent" />
+<img height="150" alt="GitHub Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=k-kanghwan&show_icons=true&hide_border=true&theme=transparent&cache_seconds=86400" />
+<img height="150" alt="Top Languages" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=k-kanghwan&layout=compact&langs_count=8&hide_border=true&card_width=320&theme=transparent&cache_seconds=86400" />
 <br/>
 <img height="150" alt="Streak" src="https://streak-stats.demolab.com?user=k-kanghwan&hide_border=true&theme=transparent" />
 
