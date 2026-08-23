@@ -58,5 +58,3 @@ Here are some ideas to get you started:
 
   <!-- Big Data & Search & Data Engineering -->
 </p>
-
-- 이 레포에 Issue를 남겨주세요.
